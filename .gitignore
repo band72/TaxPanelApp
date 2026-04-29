@@ -1,0 +1,23 @@
+# Build folders
+bin/
+obj/
+
+# Images and large files
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.zip
+
+# VS Code / IDE
+.vs/
+.vscode/
+
+# Build artifacts
+publish/
+TIFs/
+
+# Compiled installer output (distribute via GitHub Releases, not repo)
+Installer/
+*.Setup.exe
